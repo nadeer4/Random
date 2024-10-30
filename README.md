@@ -1,1 +1,1 @@
-# RGB-encoding
+# Random
